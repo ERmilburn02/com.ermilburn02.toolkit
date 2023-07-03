@@ -1,0 +1,15 @@
+{
+  "name": "com.ermilburn02.toolkit",
+  "version": "0.1.0",
+  "displayName": "Eliza's Toolkit",
+  "description": "Variety of tools to help with development",
+  "unity": "2019.4",
+  "keywords": [],
+  "hideInEditor": false,
+  "license": "MIT",
+  "author": {
+    "name": "ERmilburn02",
+    "email": "ERmilburn02@outlook.com",
+    "url": "https://www.ermilburn02.com/"
+  }
+}
